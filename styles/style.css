@@ -21,7 +21,7 @@ body {
     height: 100vh;
 } */
 
-@media only screen and (max-width: 600px) {
+/* @media only screen and (max-width: 600px) {
     
         .carousel-item{
                 margin-top: 60px;
@@ -35,4 +35,8 @@ body {
             font-size: 12px;
         }
     
+} */
+
+.carousel-item{
+    height: 80vh;
 }
